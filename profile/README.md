@@ -1,7 +1,7 @@
 Libsodium
 =========
 
-<img src="" alt="The libsodium project logo">
+<img src="https://raw.githubusercontent.com/libsodiumproject/.github/main/profile/Frame%207(1).png" alt="The libsodium project logo">
 
 
 The official libsodium account.
