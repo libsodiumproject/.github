@@ -1,8 +1,7 @@
 Libsodium
 =========
-
-<img src="https://raw.githubusercontent.com/libsodiumproject/.github/main/profile/Frame%207(1).png" alt="The libsodium project logo">
-
+[![Documentation Status](https://readthedocs.org/projects/libsodium/badge/?version=latest)](https://libsodium.readthedocs.io/en/latest/?badge=latest)
+![PyPI](https://img.shields.io/pypi/v/libsodium)
 
 The official libsodium account.
 Currently we only have 1 repo for this account but we hope to create more in the future.
